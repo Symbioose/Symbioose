@@ -1,7 +1,7 @@
 # Hi there, I'm Emile 👋
 
 ### 🎓 M1 Student in AI @ **EPITA (SCIA Track)**
-**AI Engineer & Product Builder.** I bridge the gap between complex Deep Learning models and usable consumer products.
+**AI Engineer & Product Builder.** I am obsessed with finding new ideas and turning them into usable products. I don't just write code; I solve problems (I try).
 
 ---
 
