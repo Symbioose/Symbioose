@@ -30,6 +30,15 @@ I am bootstrapping **Owly**, a mobile app that turns a "Dead Man's Switch" into 
 * **Tools:** Git, Docker, Supabase, Vercel, Azure
 
 ---
+### 🚁 Side Quests & Hardware
+**FPV Drone Pilot & Builder.**
+I don't just build software; I love hardware too.
+* **Built my own 5" Freestyle Quad:** Sourced parts, soldered the flight controller/ESC, and tuned the PIDs.
+* **Why?** It taught me patience, electronics, and the physics of flight.
+* *Next Step for this year :* Combining my **Computer Vision** skills with my drones for autonomous flight? 🤔
+
+---
+
 *"I don't just train models, I build products people use."*
 
 [LinkedIn](www.linkedin.com/in/emile-jouannet-1225aa251)
