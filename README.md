@@ -39,6 +39,4 @@ I don't just build software; I love hardware too.
 
 ---
 
-*"I don't just train models, I build products people use."*
-
 [LinkedIn](www.linkedin.com/in/emile-jouannet-1225aa251)
