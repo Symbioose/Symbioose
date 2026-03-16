@@ -7,7 +7,7 @@
 
 ### 🚀 What I'm Building Right Now
 
-**[YouGotIt] — *Mistral AI Hackathon Finalist (Paris)***
+**[YouGotIt] — *Mistral AI Hackathon Finalist 🏆(Paris)***
 **An AI-Powered Gamified B2B Training Platform.** Bootstrapping a SaaS that transforms boring corporate PDFs into interactive, voice-based RPG simulations.
 * **The Tech:** Next.js (App Router), Supabase (Auth, DB, Storage, RLS), Vercel AI SDK.
 * **AI & Voice:** Deepgram (Real-time WebSocket STT), ElevenLabs (TTS), and OpenAI GPT-4.1 (Nano/Mini) for complex multi-agent orchestration and dynamic emotional response.
