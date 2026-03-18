@@ -12,6 +12,8 @@
 * **The Tech:** Next.js (App Router), Supabase (Auth, DB, Storage, RLS), Vercel AI SDK.
 * **AI & Voice:** Deepgram (Real-time WebSocket STT), ElevenLabs (TTS), and OpenAI GPT-4.1 (Nano/Mini) for complex multi-agent orchestration and dynamic emotional response.
 * **The Architecture:** Full Role-Based Access Control (Manager/Student workflows) and an integrated Copilot RAG for automated analytics.
+* I'm currently turning this hackathon project into a real b2b saas ! : https://yougotit.vercel.app
+* A short demo i did for the hackathon (not the best demo I was in a rush ) : https://youtu.be/RAMyf21qZZI?si=ugJ4QQ8LLOziD8AG
 
 **[Owly 🦉]**
 **Redefining Personal Safety through Behavioral Design.** A mobile app that transforms a traditional "Dead Man's Switch" into a positive morning ritual.
