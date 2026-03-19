@@ -23,9 +23,9 @@
 
 ---
 
-### 📦 Previous Builds
+### 📦 Previous Builds 
 **[Avis-Genius.fr](https://avis-genius.fr)** * Designed, shipped, and maintained a SaaS solution dedicated to online reputation management.
-* *Focus:* Automation, User Acquisition, and Fullstack Development.
+* *Focus:* Automation, User Acquisition, and Fullstack Development. ( 06/2025 -> 03/2026 🪦🥀)
 
 ---
 
