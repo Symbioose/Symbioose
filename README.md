@@ -11,6 +11,10 @@ I am a Product Builder & AI Engineer. I don't just write code; I ship products t
 * 🥈 **Mistral AI Paris Hackathon (Solo Finalist out of 150+):** Built **YouGotIt**, an AI-powered B2B training platform. Turns boring corporate PDFs into real-time, voice-based RPG simulations. 
   👉 [Live App](https://yougotit.vercel.app) | 🎬 [Watch the 2-min Demo](https://youtu.be/RAMyf21qZZI) 
   *(Tech: Next.js, Supabase, Vercel AI SDK, Mistral, ElevenLabs, Deepgram).*
+* 🥈 **Project Europe Barcelona — Clay Track (24h · Duo · Top 90 builders in Europe U25):** Built **BrainReach**, a hyper-personalized outreach system that uses Meta's open-source brain encoding model (TRIBE v2) to predict how a recipient's brain reacts to your email — before you send it.
+  Clay enriched OCEAN (Big Five) profiles → Claude email variants → TRIBE v2 on a CoreWeave B200 GPU (180GB VRAM) predicting fMRI activity across 20,484 cortical vertices → 5 neural scores (attention, curiosity, trust, motivation, resistance) weighted by Kahneman's peak-end rule and adjusted per personality. Clay team called the methodology "insane."
+  🎬 [Watch the demo](https://www.loom.com/share/f20a7b8d02bd46b29df98b964c7a244d)
+  *(Tech: Meta TRIBE v2, Claude API, Clay, CoreWeave B200, Python)*
 
 ## 🚀 Other Builds
 
