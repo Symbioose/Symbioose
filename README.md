@@ -1,6 +1,6 @@
 # Hi there, I'm Emile 👋
 
-**Building AI Agents | 3x Hackathon (🥇Alan x Mistral ·🥇HRFlow · Finalist Mistral AI) | M1 AI @ EPITA**
+**Building AI Agents| M1 AI @ EPITA**
 
 I am a Product Builder & AI Engineer. I don't just write code; I ship products that solve real problems.
 
