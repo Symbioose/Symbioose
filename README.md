@@ -3,7 +3,7 @@
 
 I am a Product Builder & AI/ML Engineer. I don't just write code; I ship products that solve real problems.
 
-## 🏆 Hackathons & Track Record — 8 events · 3 wins · 3 podiums
+## 🏆 Hackathons & Track Record — 10 events · 5 wins · 4 podiums
 
 * 🥇 **Ai Thinkerers × Google — Agentic AI Hackathon (Jun 2026 · Trio):** Built **DreamPath**, a multi-agent student orientation system. Won 1st place.
 
