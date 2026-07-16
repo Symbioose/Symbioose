@@ -22,6 +22,6 @@ I am a Product Builder & AI/ML Engineer.
 * **AI & Data:** PyTorch, Python, Multi-Agent Orchestration, RAG Systems, Vercel AI SDK.
 * **Web & Mobile:** Next.js, React Native, TypeScript, Tailwind CSS.
 * **Backend & Cloud:** Supabase, Vercel, Docker, AWS/Azure, GitHub Actions.
-* 
+
 ### Hobies
 Deep nature, forests, mountains, the sea. Freediving (apnea). Tennis. And drones.
