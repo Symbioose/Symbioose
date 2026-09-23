@@ -21,7 +21,7 @@ I am a Product Builder & AI/ML Engineer.
 - 🥈 **Project Europe Barcelona** — Apr 2026, duo — top 90 builders in Europe under 25, 2% acceptance
 - 🥈 **{Tech: Europe} Paris AI** — May 2026, solo
 - 🏅 **Mistral AI Worldwide Hackathon** — Mar 2026, solo, Top 7 of 150+ — 5% acceptance, 36h
-- 🏅 **Prologin × Mistral AI** — Aug 2026, national finalist, 42nd of 1000+
+- 🏅 **Prologin × Mistral AI** — Aug 2026, competitive programming, national finalist, 42nd of 1000+
 
 ## Other Builds
 * **Stealth 🥷:** Currently building & scaling it.
