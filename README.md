@@ -1,5 +1,5 @@
 # Hi there, I'm Emile 👋
-**AI & Data | M2 AI @ EPITA (SCIA)**
+**AI & Data | M2 @ EPITA — SCIA major, NLP specialization**
 
 AI Engineer, Data Scientist & Product Builder.
 
