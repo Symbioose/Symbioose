@@ -1,7 +1,7 @@
 # Hi there, I'm Emile 👋
-**Building AI Agents | M1 AI @ EPITA**
+**AI & Data | M2 AI @ EPITA (SCIA)**
 
-I am a Product Builder & AI/ML Engineer.
+AI Engineer, Data Scientist & Product Builder.
 
 🔍 Looking for a 6-month end-of-studies internship from **February 2027** — Paris, NYC or London.
 
