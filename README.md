@@ -22,6 +22,7 @@ I am a Product Builder & AI/ML Engineer.
 - 🏅 **Prologin × Mistral AI** — Aug 2026, national finalist, 42nd/1000+
 
 ## Other Builds
+* **Stealth 🥷:** Currently building & scaling it.
 * **Suni ☀️:** An iOS app for tanning effectively and healthily.
 * **Owly 🦉:** A mobile app redefining personal safety. Transforms a traditional "Dead Man's Switch" into a positive morning ritual. *(Tech: React Native, Skia, Serverless bypass on iOS).*
 * **Avis-Genius.fr 🪦:** Bootstrapped & shipped a SaaS for online reputation management. *(Focus: User Acquisition & Fullstack).*
