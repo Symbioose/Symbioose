@@ -11,15 +11,17 @@ I am a Product Builder & AI/ML Engineer.
 - **SupBiotech** — Python & SQL teaching assistant, ~300 students
 
 ### 🏆 Hackathons
+**9 podiums · 5 wins · 3 of them solo**
+
 - 🥇 **NVIDIA Track Winner — RAISE Summit** — *Altai*, an ai agent which monitor solar farms and can send an fpv drone to monitor them
-- 🥇 **Unaite × Y Combinator** — Jun 2026, track winner + 2nd overall
+- 🥇 **Unaite × Y Combinator** — Jun 2026, track winner + 2nd overall, 30h
 - 🥇 **Google Developer Group EPITA** — Jun 2026, trio
-- 🥇 **Alan × Mistral** — Apr 2026, solo
+- 🥇 **Alan × Mistral** — Apr 2026, solo vs 60+ teams
 - 🥇 **HRFlow GenAI** — Apr 2026, duo
-- 🥈 **Project Europe Barcelona** — Apr 2026, duo
+- 🥈 **Project Europe Barcelona** — Apr 2026, duo — top 90 builders in Europe under 25, 2% acceptance
 - 🥈 **{Tech: Europe} Paris AI** — May 2026, solo
-- 🏅 **Mistral AI Paris** — Mar 2026, Top 7/150, solo
-- 🏅 **Prologin × Mistral AI** — Aug 2026, national finalist, 42nd/1000+
+- 🏅 **Mistral AI Worldwide Hackathon** — Mar 2026, solo, Top 7 of 150+ — 5% acceptance, 36h
+- 🏅 **Prologin × Mistral AI** — Aug 2026, national finalist, 42nd of 1000+
 
 ## Other Builds
 * **Stealth 🥷:** Currently building & scaling it.
